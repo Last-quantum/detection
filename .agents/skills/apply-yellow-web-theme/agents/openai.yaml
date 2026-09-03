@@ -1,0 +1,8 @@
+interface:
+  display_name: "Apply Yellow Web Theme"
+  short_description: "为网页应用清晰、可访问的黄色主题"
+  brand_color: "#CA8A04"
+  default_prompt: "Use $apply-yellow-web-theme to apply an accessible yellow theme while preserving the page's content and behavior."
+
+policy:
+  allow_implicit_invocation: true

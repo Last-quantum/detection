@@ -1,0 +1,8 @@
+interface:
+  display_name: "Apply Pink Web Theme"
+  short_description: "为网页应用清晰、可访问的粉色主题"
+  brand_color: "#DB2777"
+  default_prompt: "Use $apply-pink-web-theme to apply an accessible pink theme while preserving the page's content and behavior."
+
+policy:
+  allow_implicit_invocation: true
