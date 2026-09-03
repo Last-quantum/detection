@@ -1,10 +1,10 @@
 # detection
 
-用于测试不同 Skill 分支是否会让 AI 打开不同颜色主题的网页。
+用于测试不同 Skill 是否会让 AI 应用不同颜色主题的网页。
 
 ## Skills
 
-- [`detection-red`](.agents/skills/detection-red/SKILL.md)：为网页应用红色视觉主题。
-- [`detection-green`](.agents/skills/detection-green/SKILL.md)：为网页应用绿色视觉主题。
+- [`apply-red-web-theme`](.agents/skills/apply-red-web-theme/SKILL.md)：为网页应用清晰、可访问的红色视觉主题。
+- [`apply-green-web-theme`](.agents/skills/apply-green-web-theme/SKILL.md)：为网页应用清晰、可访问的绿色视觉主题。
 
-每个 Skill 都包含对应的 `SKILL.md` 和演示页面。
+每个 Skill 子目录都包含自己的 `SKILL.md` 与 `LICENSE`，可分别作为 Marvis 提交目录。

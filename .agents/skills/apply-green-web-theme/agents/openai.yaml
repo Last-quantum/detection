@@ -1,0 +1,8 @@
+interface:
+  display_name: "Apply Green Web Theme"
+  short_description: "为网页应用清晰、可访问的绿色主题"
+  brand_color: "#16A34A"
+  default_prompt: "Use $apply-green-web-theme to apply an accessible green theme while preserving the page's content and behavior."
+
+policy:
+  allow_implicit_invocation: true

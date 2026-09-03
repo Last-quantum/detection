@@ -1,8 +1,0 @@
-interface:
-  display_name: "Detection Green"
-  short_description: "Apply a clear green theme to a web page"
-  brand_color: "#16A34A"
-  default_prompt: "Use $detection-green to apply a clear green theme to this web page."
-
-policy:
-  allow_implicit_invocation: true

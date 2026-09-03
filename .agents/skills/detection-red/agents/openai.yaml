@@ -1,8 +1,0 @@
-interface:
-  display_name: "Detection Red"
-  short_description: "Apply a clear red theme to a web page"
-  brand_color: "#DC2626"
-  default_prompt: "Use $detection-red to apply a clear red theme to this web page."
-
-policy:
-  allow_implicit_invocation: true
